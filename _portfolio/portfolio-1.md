@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Award: First Prize TKI Dinalog COVID-19 Challenge"
+excerpt: "On behalf of GGD-GHOR Nederland, CWI, and Vrije Universiteit Amsterdam I have worked in a team of students Business Analytics on the optimization of the distribution of vaccines over all the vaccination centers during the first and second round of COVID-19 vaccinations. For our work, we have used Python, Gurobi for optimization and Dash for visualizations. More information can be found <a href="https://vu.nl/nl/verhalen/vu-studenten-winnen-eerste-prijs-voor-vaccinatieplan">here</a>."
 collection: portfolio
 ---
 

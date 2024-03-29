@@ -10,40 +10,40 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Thomas Markhorst"
-description              : &description "PhD Candidate Computer Vision @ Delft University of Technology"
-url                      : https://thomas-markhorst.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Berend Markhorst"
+description              : &description "PhD Candidate Operations Research @ CWI & VU Amsterdam"
+url                      : https://berendmarkhorst.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thomas-markhorst/thomas-markhorst.github.io"
+repository               : "berendmarkhorst/berendmarkhorst.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_9891.jpeg"
-  name             : "Thomas Markhorst"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate Computer Vision @ Delft University of Technology"
+  avatar           : "profile.jpg"
+  name             : "Berend Markhorst"
+  pronouns         : "he/him"  
+  bio              : "PhD Candidate Operations Research @ CWI & VU Amsterdam"
   location         : 
-  employer         : "TU Delft"
-  employer_link    : "https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people"
+  employer         : "CWI"
+  employer_link    : "https://www.cwi.nl/en/groups/stochastics/"
   uri              : # URL
-  email            : "t.c.markhorst@tudelft.nl"
+  email            : "berend.markhorst@cwi.nl"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=7aXfjw4AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=F-7aW8AAAAAJ&hl=nl"
   impactstory      : 
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-3383-6862"
   pubmed           : 
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Berend-Markhorst"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "thomas-markhorst"
+  github           : "berendmarkhorst"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "thomasmarkhorst"
+  linkedin         : "beermarkhorst"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
