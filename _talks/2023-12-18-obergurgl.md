@@ -1,11 +1,11 @@
 ---
-title: "Air cargo truck scheduling at a major European airline"
+title: "Robust ship pipe routing: navigating the energy transition"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-07-03-euro
-venue: "EURO 2022"
-date: 2022-07-03
-location: "Espoo, Finland"
+permalink: /talks/2023-12-18-obergurgl
+venue: "Obergurgl 2023"
+date: 2023-12-18
+location: "Obergurgl, Austria"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+I presented the first paper of my PhD at the 10th Workshop on Queueing Theory in Obergurgl, Austria.
