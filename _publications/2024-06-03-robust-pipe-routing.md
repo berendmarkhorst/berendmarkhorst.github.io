@@ -6,7 +6,7 @@ excerpt: 'The energy transition from fossil fuels to sustainable alternatives ma
 date: 2024-06-03
 venue: 'Proceedings of 15th International Marine Design Conference (IMDC 2024)'
 paperurl: ''
-citation: 'Citation will be updated soon.'
+citation: 'Markhorst, B. T., Berkhout, J., Zocca, A., Pruyn, J. F. J., & Van der Mei, R. D. (2024, May). Sailing through uncertainty: ship pipe routing and the energy transition. In International Marine Design Conference.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
