@@ -1,7 +1,7 @@
 ---
 title: 'Four Steps to Robustify your Linear Program'
 date: 2022-02-21
-permalink: /posts/medium1
+permalink: /posts/medium1/
 tags:
   - linear programming
   - robust optimization
