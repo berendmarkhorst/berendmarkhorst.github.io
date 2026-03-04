@@ -1,5 +1,5 @@
 ---
-title: 'How a Sailor\'s Mindset Can Help You Become a Better and Stronger Version of Yourself'
+title: "How a Sailor's Mindset Can Help You Become a Better and Stronger Version of Yourself"
 date: 2021-10-02
 permalink: /posts/sailors-mindset/
 collection: posts
