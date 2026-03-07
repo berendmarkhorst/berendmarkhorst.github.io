@@ -26,4 +26,10 @@ On this page you will find an overview of my academic background and professiona
 * Logistics Analyst, GGD-GHOR/CWI/VU, Mar. 2021 - Jun. 2021
 * Software Engineering Intern, [TONOS Care](https://tonos-care.nl), Dec. 2020 - Jan. 2021
 
+### Academic Service
+#### Reviewer Activities
+* Computer-Aided Design (together with dr. Joost Berkhout)
+* Journal of Applied Mathematics and Computing
+* Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine
+
 
