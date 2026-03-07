@@ -32,4 +32,7 @@ On this page you will find an overview of my academic background and professiona
 * Journal of Applied Mathematics and Computing
 * Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine
 
+#### Volunteering: Organizer PhD meeting (2022 - 2025)  
+  Together with another PhD candidate (Jeroen van Kasteren), I organized meetings for all PhD candidates in our department to discuss mental health issues and typical PhD struggles. We either had discussions ourselves or invited guest-speakers from different backgrounds to talk about this important topic.
+
 
